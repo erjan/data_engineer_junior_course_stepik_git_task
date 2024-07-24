@@ -1,1 +1,1 @@
-# data_engineer_junior_course_stepik_git_task
+Erjan Kenjegalee, hobby - software engineering
